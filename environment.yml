@@ -1,0 +1,11 @@
+name: ds-minicurso
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - pip
+  - pip:
+      - plotly

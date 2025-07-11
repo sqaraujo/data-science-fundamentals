@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Minicursos de Ciência de Dados com Python e Jupyter</h1>
+<h1 align="center">🚀 Data Science Mini-Courses with Python and Jupyter</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/sqaraujo/minicursos-data-science?color=blue" alt="Repo size">
@@ -8,48 +8,48 @@
 </p>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/sqaraujo/minicursos-data-science/blob/main/python.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir Python.ipynb no Colab">
+  <a href="https://colab.research.google.com/github/sqaraujo/minicursos-data-science/blob/main/notebooks/python.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Python.ipynb in Colab">
   </a>
-  <a href="https://colab.research.google.com/github/sqaraujo/minicursos-data-science/blob/main/jupyter.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir Jupyter.ipynb no Colab">
+  <a href="https://colab.research.google.com/github/sqaraujo/minicursos-data-science/blob/main/notebooks/jupyter.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Jupyter.ipynb in Colab">
   </a>
 </p>
 
 ---
 
-## 📚 Conteúdo
+## 📚 Course Overview
 
-| Notebook         | Descrição                                                                 |
-|------------------|---------------------------------------------------------------------------|
-| `python.ipynb`   | Curso básico de Python voltado para análise de dados com Numpy, Pandas e visualizações. |
-| `jupyter.ipynb`  | Tutorial interativo sobre como usar o Jupyter Notebook para projetos de ciência de dados. |
+| Notebook         | Description                                                                 |
+|------------------|-------------------------------------------------------------------------------|
+| `python.ipynb`   | A beginner-friendly Python course focused on data analysis with Numpy, Pandas, and visualizations. |
+| `jupyter.ipynb`  | An interactive tutorial on how to use Jupyter Notebook for data science projects. |
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🧰 Tools & Technologies
 
 - [Python 3.x](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
-- Bibliotecas:
+- Libraries:
   - `numpy`
   - `pandas`
   - `matplotlib`
   - `seaborn`
-  - `plotly` (opcional)
+  - `plotly` (optional for interactive plots)
 
 ---
 
-## ▶️ Como visualizar os notebooks
+## ▶️ How to View the Notebooks
 
-Você pode abrir os notebooks diretamente no navegador usando o Google Colab:
+You can open the notebooks directly in your browser using Google Colab:
 
-- [Abrir `python.ipynb` no Colab](https://colab.research.google.com/github/sqaraujo/minicursos-data-science/blob/main/python.ipynb)
-- [Abrir `jupyter.ipynb` no Colab](https://colab.research.google.com/github/sqaraujo/minicursos-data-science/blob/main/jupyter.ipynb)
+- [Open `python.ipynb` in Colab](https://colab.research.google.com/github/sqaraujo/minicursos-data-science/blob/main/notebooks/python.ipynb)
+- [Open `jupyter.ipynb` in Colab](https://colab.research.google.com/github/sqaraujo/minicursos-data-science/blob/main/notebooks/jupyter.ipynb)
 
 ---
 
-## 📦 Como clonar e executar localmente
+## 💻 Run Locally
 
 ```bash
 git clone https://github.com/sqaraujo/minicursos-data-science.git
