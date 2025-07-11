@@ -1,43 +1,57 @@
-# Data Science Fundamentals
+<h1 align="center">🚀 Minicursos de Ciência de Dados com Python e Jupyter</h1>
 
-## Requirements
-1. Tools
-    - Python 3.x​
-    - Anaconda​
-    - Jupyter Notebook​
-    - Audacity​
-1. Libraries
-    - Numpy​
-    - Pandas​
-    - Matplotlib​
-    - Seaborn​
-    - Scipy​
-    - Plotly (optional for interactive plots)​
-    - Librosa​
-  
-  ##  Environment Setup
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/sqaraujo/minicursos-data-science?color=blue" alt="Repo size">
+  <img src="https://img.shields.io/github/languages/top/sqaraujo/minicursos-data-science" alt="Top language">
+  <img src="https://img.shields.io/github/last-commit/sqaraujo/minicursos-data-science" alt="Last commit">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sqaraujo.minicursos-data-science" alt="Visitors">
+</p>
 
-  1. Install Conda according to the guide https://www.anaconda.com/docs/getting-started/miniconda/install#windows-installation
-  1. Open Anaconda Prompt
-  1. Creates conda environment wit environment with dependencies
-     ```shell
-     conda create -n ds-fundamentals python=3.9 numpy pandas matplotlib librosa jupyterlab -y
-     ```
-  1. Activate the environment
-     ```shell
-     conda activate ds-fundamentals
-     ```
-  1. Check environment 
-     ```shell
-     conda list
-     ```
+<p align="center">
+  <a href="https://colab.research.google.com/github/sqaraujo/minicursos-data-science/blob/main/python.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir Python.ipynb no Colab">
+  </a>
+  <a href="https://colab.research.google.com/github/sqaraujo/minicursos-data-science/blob/main/jupyter.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir Jupyter.ipynb no Colab">
+  </a>
+</p>
 
-## Fundamentals 
+---
 
-### Lesson 1 - Accessing Jupyter Notebook
-1. In the Anaconda Prompt type ```jupyter lab```
-1. Create new notebook named ```Fundamentals.ipynb``` 
-1. 
+## 📚 Conteúdo
 
-### Lesson 2 - 
-1. 
+| Notebook         | Descrição                                                                 |
+|------------------|---------------------------------------------------------------------------|
+| `python.ipynb`   | Curso básico de Python voltado para análise de dados com Numpy, Pandas e visualizações. |
+| `jupyter.ipynb`  | Tutorial interativo sobre como usar o Jupyter Notebook para projetos de ciência de dados. |
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+- [Python 3.x](https://www.python.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- Bibliotecas:
+  - `numpy`
+  - `pandas`
+  - `matplotlib`
+  - `seaborn`
+  - `plotly` (opcional)
+
+---
+
+## ▶️ Como visualizar os notebooks
+
+Você pode abrir os notebooks diretamente no navegador usando o Google Colab:
+
+- [Abrir `python.ipynb` no Colab](https://colab.research.google.com/github/sqaraujo/minicursos-data-science/blob/main/python.ipynb)
+- [Abrir `jupyter.ipynb` no Colab](https://colab.research.google.com/github/sqaraujo/minicursos-data-science/blob/main/jupyter.ipynb)
+
+---
+
+## 📦 Como clonar e executar localmente
+
+```bash
+git clone https://github.com/sqaraujo/minicursos-data-science.git
+cd minicursos-data-science
+jupyter lab
